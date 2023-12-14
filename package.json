@@ -1,0 +1,15 @@
+{
+    "name": "parcel-namer-keep-original",
+    "version": "1.0.0",
+    "description": "Keep original filenames when building with parcel",
+    "author": "capaldi12",
+    "license": "MIT",
+    "main": "index.js",
+    "type": "module",
+    "dependencies": {
+        "parcel": "^2.10.3"
+    },
+    "engines": {
+        "parcel": "^2.10.3"
+    }
+}
